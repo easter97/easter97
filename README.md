@@ -1,4 +1,4 @@
-## Hi there 👋
+## About me
 
 <!--
 **easter97/easter97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Amanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=easter97&show_icons=true&theme=ambient_gradient&hide_rank=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=easter97&exclude_repo=ColorSpot&layout=donut)](https://github.com/easter97/github-readme-stats)
